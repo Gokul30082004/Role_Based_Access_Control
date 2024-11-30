@@ -12,6 +12,7 @@ public class ProjectrbacApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ProjectrbacApplication.class, args);
 		System.out.println("Server is Started!");
+
 	}
 
 }
